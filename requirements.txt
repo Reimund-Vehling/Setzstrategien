@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 ipywidgets 
+itertools
+fractions
+functools
+sympy
