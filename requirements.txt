@@ -1,7 +1,5 @@
 numpy
 pandas
 matplotlib
-ipywidgets 
-fractions
-functools
+ipywidgets
 sympy
