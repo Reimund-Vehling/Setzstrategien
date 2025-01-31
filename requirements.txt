@@ -4,4 +4,4 @@ matplotlib
 ipywidgets
 sympy
 openpyxl
-itertools
+
